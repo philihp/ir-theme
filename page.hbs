@@ -1,15 +1,12 @@
 {{!< default}}
-
+<!-- page.hbs -->
 <h2>page.hbs</h2>
-
 {{!-- Everything inside the #post tags pulls data from the page --}}
 {{#post}}
-
   <ul>
     <li><b>image</b>: {{image}}</li>
     <li><b>post_class</b>: {{post_class}}</li>
     <li><b>title</b>: {{title}}</li>
     <li><b>content</b>: {{content}}</li>
   </ul>
-
 {{/post}}
