@@ -1,7 +1,7 @@
 {
-    "name": "wir",
-    "description": "Week In Review's Theme",
-    "demo": "https://week-in-review.com",
+    "name": "ir-theme",
+    "description": "Custom Theme for The International Review",
+    "demo": "https://international-review.org",
     "version": "0.0.1",
     "engines": {
         "ghost": ">=0.9.0 <1.0.0"
